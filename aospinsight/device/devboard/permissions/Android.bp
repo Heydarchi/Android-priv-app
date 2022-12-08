@@ -1,0 +1,6 @@
+
+prebuilt_etc {
+    name: "privapp-permissions-aospinsight",
+    src: "privapp-permissions-aospinsight.xml",
+    filename_from_src: true,
+}
