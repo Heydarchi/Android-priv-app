@@ -1,0 +1,9 @@
+<permissions>
+    
+    <privapp-permissions package="com.example.dummyapplication">
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+    </privapp-permissions>
+    
+</permissions>
